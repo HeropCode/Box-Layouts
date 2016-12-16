@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.header {
+    height: 70px;
+    background-color: #D95459;
+}
+.visual {
+    background-color: #5165a2;
+}
+.visual .inner {
+    width: 800px;
+    height: 450px;
+    background-color: #B7C9F1;
+    margin: 0 auto;
+}
+.contents {
+    background-color: #B7C9F1;
+}
+.contents .inner {
+    width: 800px;
+    height: 220px;
+    background-color: #5165a2;
+    margin: 0 auto;
+}
+.footer {
+    height: 160px;
+    background-color: #D95459;
+}

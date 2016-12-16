@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.container {
+    width: 940px;
+    margin: 0 auto;
+}
+.container li {
+    width: 180px;
+    height: 350px;
+    background-color: #D95459;
+    float: left;
+    margin-right: 10px;
+}
+.container li:last-child {
+    margin-right: 0;
+}

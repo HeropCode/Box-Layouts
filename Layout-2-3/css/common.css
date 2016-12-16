@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+.header {
+    height: 70px;
+    background-color: #D95459;
+}
+.header .inner {
+    width: 800px;
+    height: 70px;
+    margin: 0 auto;
+}
+.header .logo {
+    width: 100px;
+    height: 40px;
+    background: #B7C9F1;
+    float: left;
+    position: relative;
+    top: 15px;
+}
+.header .menu {
+    width: 400px;
+    height: 30px;
+    background: #B7C9F1;
+    float: right;
+    position: relative;
+    top: 20px;
+}
+.visual {
+    background-color: #5165a2;
+}
+.visual .inner {
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.visual .left {
+    width: 200px;
+    height: 450px;
+    background: #B7C9F1;
+    float: left;
+    margin-right: 10px;
+}
+.visual .right {
+    width: 590px;
+    height: 450px;
+    background: #B7C9F1;
+    float: left;
+}
+.contents {
+    background: #B7C9F1;
+}
+.contents .inner {
+    width: 800px;
+    height: 220px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+.contents ul li {
+    width: 152px;
+    height: 220px;
+    background-color: #5165a2;
+    float: left;
+    margin-right: 10px;
+}
+.contents ul li:last-child {
+    margin-right: 0;
+}
+.footer {
+    height: 160px;
+    background-color: #D95459;
+}
