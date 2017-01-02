@@ -14,7 +14,7 @@ width: 300px;
 margin: 0 auto;
 ```
 
-### [레이아웃1-2](http://herop.me/layouts/layout-1-1)
+### [레이아웃1-2](http://herop.me/layouts/layout-1-2)
 
 `float: left` 로 수평 정렬하고 중간 여백을 줄 경우,  
 `:last-child` 를 사용하여 마지막 요소(element)의 우측 **여백(margin) 제거**.
@@ -28,7 +28,7 @@ margin: 0 auto;
 }
 ```
   
-### [레이아웃2-1](http://herop.me/layouts/layout-1-1)
+### [레이아웃2-1](http://herop.me/layouts/layout-2-1)
 
 `.inner` 를 사용하여 섹션 콘텐츠의 **중앙 정렬**.
 
@@ -36,11 +36,11 @@ margin: 0 auto;
 <div class="inner"></div>
 ```
   
-### [레이아웃2-2](http://herop.me/layouts/layout-1-1)
+### [레이아웃2-2](http://herop.me/layouts/layout-2-2)
 
 `inner` 요소 내부에 콘텐츠 추가하기
   
-### [레이아웃2-3](http://herop.me/layouts/layout-1-1)
+### [레이아웃2-3](http://herop.me/layouts/layout-2-3)
 
 `float: left` 와 `float: right` 를 동시 사용하여 요소들을 **양쪽으로 정렬**.
 
@@ -53,7 +53,7 @@ margin: 0 auto;
 }
 ```
   
-### [레이아웃3-1 (iRiver)](http://herop.me/layouts/layout-1-1)
+### [레이아웃3-1 (iRiver)](http://herop.me/layouts/layout-3-1)
 
 'iRiver' 페이지(UI) 레이아웃 연습.
 
