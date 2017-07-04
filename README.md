@@ -52,6 +52,19 @@ margin: 0 auto;
     float: right;
 }
 ```
+
+`float`의 값이 존재하는 요소에서는 '마진 병합' 현상이 발생하지 않습니다.
+
+```css
+.logo {
+    margin-top: 15px;
+    float: left;
+}
+.menu {
+    margin-top: 20px;
+    float: right;
+}
+```
   
 ### [레이아웃3-1 (iRiver)](http://herop.me/layouts/layout-3-1)
 

@@ -14,16 +14,14 @@
     height: 40px;
     background: #B7C9F1;
     float: left;
-    position: relative;
-    top: 15px;
+    margin-top: 15px;
 }
 .header .menu {
     width: 400px;
     height: 30px;
     background: #B7C9F1;
     float: right;
-    position: relative;
-    top: 20px;
+    margin-top: 20px;
 }
 .visual {
     background-color: #5165a2;
